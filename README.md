@@ -66,6 +66,6 @@ MIT © [rubenchoi](https://github.com/rubenchoi)
 
 ## Tutorial
 
-https://rubenchoi.tistory.com/22  ▶MQTT Broker
+https://rubenchoi.tistory.com/22  :MQTT Broker
 
-https://rubenchoi.tistory.com/24  ▶MQTT 
+https://rubenchoi.tistory.com/24  :MQTT Client
