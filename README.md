@@ -66,4 +66,5 @@ MIT © [rubenchoi](https://github.com/rubenchoi)
 
 ## Tutorial
 
+https://rubenchoi.tistory.com/22
 https://rubenchoi.tistory.com/24
