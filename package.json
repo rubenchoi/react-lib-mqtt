@@ -1,10 +1,10 @@
 {
   "name": "@rubenchoi/react-mqtt",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "MQTT client for React using mqtt.js and having setting UI",
   "author": "rubenchoi",
   "license": "MIT",
-  "repository": "",
+  "repository": "rubenchoi/react-lib-mqtt",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
