@@ -1,6 +1,6 @@
 {
   "name": "@rubenchoi/react-mqtt",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "MQTT client for React using mqtt.js and having setting UI",
   "author": "rubenchoi",
   "license": "MIT",
