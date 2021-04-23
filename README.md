@@ -1,14 +1,20 @@
-# mqtt-client-react
+# React MQTT Library
 
-> MQTT client for React using mqtt.js and having setting UI
+[![NPM](https://img.shields.io/npm/v/mqtt-client-react.svg)](https://www.npmjs.com/package/@rubenchoi/react-mqtt) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-[![NPM](https://img.shields.io/npm/v/mqtt-client-react.svg)](https://www.npmjs.com/package/mqtt-client-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+### This repository contains:
+- React library for MQTT client using mqtt.js with setting GUI
+- [Sample server](/example/server)
+- [Sample app](/example)
+
+
 
 ## Install
 
 ```bash
 npm install --save @rubenchoi/react-mqtt
 ```
+
 
 ## Usage
 
@@ -51,7 +57,8 @@ const App = () => {
 }
 ```
 
-## To use a sample MQTT server, 
+
+## Run Sample MQTT Broker, 
 ```bash
   example/server$ npm install
   example/server$ node AedesBroker.js
@@ -60,12 +67,13 @@ const App = () => {
   [aedes]tls listening on port 1883
 ```
 
-## License
-
-MIT © [rubenchoi](https://github.com/rubenchoi)
 
 ## Tutorial
 
-https://rubenchoi.tistory.com/22  :MQTT Broker
+- [MQTT Broker](https://rubenchoi.tistory.com/22)
+- [MQTT Client](https://rubenchoi.tistory.com/24)
 
-https://rubenchoi.tistory.com/24  :MQTT Client
+
+## License
+
+MIT © [rubenchoi](https://github.com/rubenchoi)
