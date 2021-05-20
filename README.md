@@ -82,6 +82,4 @@ MIT © [rubenchoi](https://github.com/rubenchoi)
 
 ## Credits
 
-[MQTT.js](https://github.com/mqttjs/MQTT.js) under MIT License
-[Ant Design](https://github.com/ant-design/ant-design/) under MIT License
-created by [react-create-library](https://www.npmjs.com/package/create-react-library) under MIT License
+[MQTT.js](https://github.com/mqttjs/MQTT.js) under MIT License, [Ant Design](https://github.com/ant-design/ant-design/) under MIT License, [react-create-library](https://www.npmjs.com/package/create-react-library) under MIT License
