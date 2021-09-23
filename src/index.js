@@ -15,8 +15,8 @@ const loadPreference = (m, v) => {
 }
 
 export default function MqttComponent(props) {
-  const savedAddress = loadPreference('rubenchoi-mqtt-address', '127.0.0.1');
-  const savedPort = loadPreference('rubenchoi-mqtt-port', '8888');
+  const savedAddress = loadPreference('rubenchoi-mqtt-address', props.defaultAddress || '127.0.0.1');
+  const savedPort = loadPreference('rubenchoi-mqtt-port', props.defaultPort || '8888');
 
   const [form] = Form.useForm();
   const [address, setAddress] = React.useState(savedAddress);
